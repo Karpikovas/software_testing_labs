@@ -1,0 +1,2 @@
+# JMeter generated Authorization file
+ https://m.lamoda.ru/customer/account/login/	karpikovasophie@yandex.ru	stivka1855275			BASIC
